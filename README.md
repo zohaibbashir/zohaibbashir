@@ -1,18 +1,12 @@
-### **<div align="center">Hi, I'm Zohaib Bashir, a backend developer with interests in Machine Learning, Deep Learning and Artificial Intelligence related content.</div>**  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=166&pause=1000&color=1A50BC&background=00DC0000&center=true&vCenter=true&random=true&width=7500&height=450&lines=Hi%2C+I'm+Zohaib+Bashir+and+I+have+interests+in+Data+Science+and+AI+related+concepts)](https://git.io/typing-svg)
+
+I am a Software Engineer experienced in Full Stack Development with a specific interest in Backend Development, having worked on a broad spectrum of projects involving Web Applications, Machine/Deep Learning and Data Science.
+
+###  About Me 
+I am a dedicated Software Engineer with a proven track record of handling comprehensive projects that integrate Full Stack Development and AI/DS concepts. I have practical experience in tasks ranging from Data Scraping, Cleaning and Visualizations to Model Training and Deployment for Web Applications. Proficient in utilizing various tools and technologies such as Docker, Jenkins.
 
 
 
-I am a Software Engineer experienced in Full Stack Development with a specific interest in Backend Engineering, having worked on a broad spectrum of projects involving Web Applications, SaaS and Artificial Intelligence.
-
-🤷‍♂️ About Me 
-I am a dedicated Software Engineer with a proven track record of handling comprehensive projects that integrate Full Stack Development and Artificial Intelligence concepts. I have practical experience in tasks ranging from Data Scraping and Cleaning and Visualizations to Model Training and Deployment for Web Applications. Proficient in utilizing various tools and technologies.
-
-
-👯 I’m looking to collaborate on .
-Excited to collaborate and work on Any Interesting Projects ! Eager to contribute, learn and grow.
-  
-  
 
 <br/>  
 
@@ -55,10 +49,17 @@ Excited to collaborate and work on Any Interesting Projects ! Eager to contribut
 <br/>  
 
 
+  
+
+
 ## GitHub Stats  
 <img src="https://github-readme-stats.vercel.app/api?username=zohaibbashir&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" />  
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibbashir&hide_border=true&layout=compact&theme=algolia" align="center" /></div>
 <br />
 
+###  I’m looking to collaborate on .
+Excited to collaborate and work on **Any Interesting Projects** !
+Eager to **contribute**, **learn** and **grow**. You can contact me on my [LinkedIn](https://www.linkedin.com/in/zohaibbashir) profile.
 
+  
