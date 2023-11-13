@@ -56,9 +56,9 @@ Excited to collaborate and work on Any Interesting Projects ! Eager to contribut
 
 
 ## GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=zohaibbashir&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
+<img src="https://github-readme-stats.vercel.app/api?username=zohaibbashir&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibbashir&hide_border=true&layout=compact&theme=dark" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibbashir&hide_border=true&layout=compact&theme=algolia" align="center" /></div>
 <br />
 
 
