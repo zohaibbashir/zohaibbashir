@@ -55,11 +55,10 @@ Excited to collaborate and work on Any Interesting Projects ! Eager to contribut
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=zohaibbashir&show_icons=true&count_private=true&hide_border=true" align="left" />  
+## GitHub Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=zohaibbashir&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" />  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibbashir&hide_border=true&layout=compact" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibbashir&hide_border=true&layout=compact&theme=dark" align="center" /></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
