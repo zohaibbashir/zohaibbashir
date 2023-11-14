@@ -32,7 +32,7 @@ I am a dedicated Software Engineer with a proven track record of handling compre
 <br/>  
 
 
-## Connect with me  
+## My Socials  
 <div align="center">
 <a href="https://github.com/zohaibbashir" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -43,6 +43,11 @@ I am a dedicated Software Engineer with a proven track record of handling compre
 <a href="https://hashnode.com/@zohaibbashir" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
+
+<a href="https://zohaibbashir.medium.com" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>  
+  
 </div>  
   
 
