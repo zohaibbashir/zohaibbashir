@@ -47,7 +47,10 @@ I am a dedicated Software Engineer with a proven track record of handling compre
 <a href="https://zohaibbashir.medium.com" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
-  
+<br>
+<a href="https://www.upwork.com/freelancers/~01dbb4d47d167c2d43" target="_blank">
+<img src=https://img.shields.io/badge/Upwork-6FDA44?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 </div>  
   
 
